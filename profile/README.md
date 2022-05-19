@@ -1,7 +1,7 @@
 ## Bem-vindos a DUMP!
 
 #### Acesso rapido!
-- 📙 [Wiki](https://github.com/dumptecnologia/.github/wiki)
+- 📙 [Wiki](https://github.com/dumptecnologia/.github/wiki/%F0%9F%8F%A0-Home)
 - 🔷 [Jira Software](https://dumptec.atlassian.net/)
 
 <!--
