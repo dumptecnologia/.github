@@ -3,7 +3,7 @@
 - 🌎 [dump.tec.br](https://dump.tec.br)
 
 #### Acesso rapido!
-- 📙 [Wiki](https://github.com/dumptecnologia/.github/wiki/%F0%9F%8F%A0-Bem-vindo)
+- 📙 [Wiki](https://github.com/dumptecnologia/.github/wiki/Home)
 - 🔷 [Jira Software](https://dumptec.atlassian.net/)
 
 <!--
