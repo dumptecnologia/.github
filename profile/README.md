@@ -5,7 +5,7 @@
 #### Acesso rapido!
 - 📙 [Wiki](https://github.com/dumptecnologia/.github/wiki/Home)
 - 🔷 [Jira Software](https://dumptec.atlassian.net/)
-- 🧱 [Repositório de Componentes](https://github.com/dump-components)
+- 🧩 [Repositório de Componentes](https://github.com/dump-components)
 
 <!--
 
