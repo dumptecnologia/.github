@@ -6,7 +6,7 @@
 - 📙 [Wiki](https://github.com/dumptecnologia/.github/wiki/Home)
 - 🔷 [Jira Software](https://dumptec.atlassian.net/)
 - 🧩 [Repositório de Componentes](https://github.com/dump-components)
-
+- 🐳 [Docker Hub](https://hub.docker.com/u/dumptec)
 <!--
 
 **Here are some ideas to get you started:**
