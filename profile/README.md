@@ -1,4 +1,4 @@
-## Bem-vindos a DUMP!
+## Bem-vindo à Dump Tecnologia!
 
 - 🌎 [dump.tec.br](https://dump.tec.br)
 
